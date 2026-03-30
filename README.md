@@ -37,8 +37,10 @@ QGIS (for spatial analysis and mapping)
 
 ### Common issues and tips:
 
-File path errors: Make sure your data files are in the correct data/ directory and paths match your system
+File path errors: Make sure your data files are in the correct data/ directory, and paths match your system
+
 Missing libraries: Ensure you are running cells in order inside Jupyter Notebook
+
 Piper plot issues: Check ion units (must be consistent, typically meq/L)
 
 
