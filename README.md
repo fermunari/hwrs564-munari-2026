@@ -55,7 +55,7 @@ See the LICENSE file in the repository for more information.
 ## Authors:
 
 ### Fernanda Munari
-### M.S. Hydrogeology, University of Arizona
+### M.S. Candidate Hydrogeology, University of Arizona
 
 ## Contributors
 ### Dr. Jennifer McIntosh (Advisor)
