@@ -21,7 +21,7 @@ Tritium plots for groundwater age estimation
 
 ### The following tools and libraries are required to run the analysis:
 
-Python 3.x
+Python 3.13
 
 ### Required Python libraries:
 
