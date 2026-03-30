@@ -16,7 +16,9 @@ The work is motivated by the need to better understand water availability and su
 The repository includes scripts and notebooks to generate:
 
 δ²H vs δ¹⁸O plots for recharge interpretation
+
 Piper diagrams for water type classification
+
 Tritium plots for groundwater age estimation
 
 ### The following tools and libraries are required to run the analysis:
